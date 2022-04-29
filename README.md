@@ -8,17 +8,23 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
 **Config files**
 
-[Ansible](https://github.com/yffenim/elk_stack/blob/main/Files/ansible.yml 'Ansible Config') 
+[Ansible](https://github.com/yffenim/elk_stack/blob/main/Files/ansible.yml 'Ansible Config')
+
 [Hosts](https://github.com/yffenim/elk_stack/blob/main/Files/hosts.txt 'Hosts file') 
-[Filebeat](https://github.com/yffenim/elk_stack/blob/main/Files/filebeat-config.yml 'Filebeat Config') 
+
+[Filebeat](https://github.com/yffenim/elk_stack/blob/main/Files/filebeat-config.yml 'Filebeat Config')
+
 [Metricbeat](https://github.com/yffenim/elk_stack/blob/main/Files/metricbeat-config.yml 'Hosts file') 
 
 **Playbooks**
 
-[Pentesting]('https://github.com/yffenim/elk_stack/blob/main/Files/pentesting.yml')
-[ELK]('https://github.com/yffenim/elk_stack/blob/main/Files/install-elk.yml')
-[Filebeat]('https://github.com/yffenim/elk_stack/blob/main/Files/filebeat-playbook.yml')
-[Metricbeat]('https://github.com/yffenim/elk_stack/blob/main/Files/metricbeat.yml')
+[Pentesting](https://github.com/yffenim/elk_stack/blob/main/Files/pentesting.yml 'pentesting playbook')
+
+[ELK](https://github.com/yffenim/elk_stack/blob/main/Files/install-elk.yml 'ELK playbook')
+
+[Filebeat](https://github.com/yffenim/elk_stack/blob/main/Files/filebeat-playbook.yml 'filebeat playbook')
+
+[Metricbeat](https://github.com/yffenim/elk_stack/blob/main/Files/metricbeat.yml 'metricbeat playbook')
 
 
 This document contains the following details:
