@@ -2,15 +2,24 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![Diagram](Images/NetworkDiagram.png)
+![Diagram](https://raw.githubusercontent.com/yffenim/elk_stack/main/Images/NetworkDiagram.jpg)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the each Ansible configuration and playbook files may be used to install only certain pieces of it, such as Filebeat.
 
 **Config files**
-[Markdown tutorial](https://www.tutorialsandyou.com/markdown/ 'Learn Markdown')
+
+[Ansible](https://github.com/yffenim/elk_stack/blob/main/Files/ansible.yml 'Ansible Config') 
+[Hosts](https://github.com/yffenim/elk_stack/blob/main/Files/hosts.txt 'Hosts file') 
+[Filebeat](https://github.com/yffenim/elk_stack/blob/main/Files/filebeat-config.yml 'Filebeat Config') 
+[Metricbeat](https://github.com/yffenim/elk_stack/blob/main/Files/metricbeat-config.yml 'Hosts file') 
 
 **Playbooks**
-[Markdown tutorial](https://www.tutorialsandyou.com/markdown/ 'Learn Markdown')
+
+[Pentesting]('https://github.com/yffenim/elk_stack/blob/main/Files/pentesting.yml')
+[ELK]('https://github.com/yffenim/elk_stack/blob/main/Files/install-elk.yml')
+[Filebeat]('https://github.com/yffenim/elk_stack/blob/main/Files/filebeat-playbook.yml')
+[Metricbeat]('https://github.com/yffenim/elk_stack/blob/main/Files/metricbeat.yml')
+
 
 This document contains the following details:
 - Description of the Topology
