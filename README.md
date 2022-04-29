@@ -2,15 +2,15 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![Diagram](Images/diagram.png)
+![Diagram](Images/NetworkDiagram.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the each Ansible configuration and playbook files may be used to install only certain pieces of it, such as Filebeat.
 
 **Config files**
-_ADD FILES_
+[Markdown tutorial](https://www.tutorialsandyou.com/markdown/ 'Learn Markdown')
 
 **Playbooks**
-_ADD FILES_
+[Markdown tutorial](https://www.tutorialsandyou.com/markdown/ 'Learn Markdown')
 
 This document contains the following details:
 - Description of the Topology
