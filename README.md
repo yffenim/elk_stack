@@ -87,11 +87,11 @@ The ELK playbook implements the following tasks:
   - download and launch the elk container
   - enable the service docker on boot, ensuring persistance through reboots
 
-The following screenshot displays the result of running `docker ps`: it lists the dockers currently started.:
-_ADD SCREENSHOT_
+The following screenshot displays the result of running `docker ps`: it lists the dockers currently started:
+_SCREENSHOT UNAVAILBLE_
 
 Successfully configuring and running a playbook should look something like this:
-_ADD SCREENSHOT_
+_SCREENSHOT UNAVAILBLE_
 
 ### Target Machines & Beats
 
